@@ -17,5 +17,5 @@ I regularly share my projects to showcase my progress. Feel free to explore them
 </a>    
 <a href="https://github.com/AST-tnbt/Introduction-Website">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AST-tnbt&repo=Introduction_Website&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AST-tnbt&repo=Introduction-Website&theme=radical" />
 </a>    
