@@ -5,11 +5,11 @@ I regularly share my projects to showcase my progress. Feel free to explore them
 
 <a href="https://github.com/AST-tnbt/Online_Diary_Fontend">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AST-tnbt&repo=Clinic_Management&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AST-tnbt&repo=Online_Diary_Fontend&theme=radical" />
 </a>    
 <a href="https://github.com/AST-tnbt/Online_Diary_Backend">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AST-tnbt&repo=Clinic_Management&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AST-tnbt&repo=Online_Diary_Backend&theme=radical" />
 </a>    
 <a href="https://github.com/AST-tnbt/Clinic_Management">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -17,5 +17,5 @@ I regularly share my projects to showcase my progress. Feel free to explore them
 </a>    
 <a href="https://github.com/AST-tnbt/Introduction-Website">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AST-tnbt&repo=Introduction-Website&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AST-tnbt&repo=Introduction_Website&theme=radical" />
 </a>    
