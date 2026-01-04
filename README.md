@@ -1,9 +1,8 @@
 ### HI 👋👋👋
-My name is Tin.  
-I am a student majoring in Information Systems, aspiring to become a full-stack developer. I find myself interested in web and mobile app development.   
-I regularly share my projects to showcase my progress. Feel free to explore them if you're interested.  
+My name is Tin — an Android software engineer and a student majoring in Information Systems.  
+I am passionate about mobile, web, and AI development. Feel free to explore my projects if you are interested.
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,react,tailwind,materialui,vue,vuetify,androidstudio,spring,laravel,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,js,ts,html,css,java,react,tailwind,materialui,vue,vuetify,spring,laravel,mysql,docker,python)](https://skillicons.dev)
 ### Reach me on ✨
 ✉️ tintrinh.dev@gmail.com  
 💻 [linkedin.com/in/tnbtin](https://www.linkedin.com/in/tnbtin/)
