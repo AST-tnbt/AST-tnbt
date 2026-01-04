@@ -11,11 +11,11 @@ I regularly share my projects to showcase my progress. Feel free to explore them
 
 <a href="https://github.com/AST-tnbt/ecg-classification-web">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AST-tnbt&repo=ECG_Classifier_FE&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AST-tnbt&repo=ecg-classification-web&theme=blueberry" />
 </a>
 <a href="https://github.com/AST-tnbt/ECG-Classifier-BE">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AST-tnbt&repo=ECG_Classifier_BE&theme=bear" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AST-tnbt&repo=ECG-Classifier-BE&theme=bear" />
 </a>
 <a href="https://github.com/AST-tnbt/Expense_Management_FE">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
